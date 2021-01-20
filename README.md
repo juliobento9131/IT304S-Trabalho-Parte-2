@@ -1,31 +1,22 @@
-# IT304S-Trabalho-Parte-2
-
-Arquivos utilizados na análise dos dados das faturas de enrgia elétrica da UFFS.
-
-Os dados foram previamente preparados para posterior análise de viabilidade de migração para o Mercado Livre de Energia.
- - Os dados foram coletados de uma planilha preenchida manualmente no Google Drive e tratados na plataforma Colab. 
-Foram utilizadas técnicas eliminação de colunas sem dados e de preenchimento de dados faltantes com interpolação quadrática e backward fill.
- - Ao todo foram tratados dados de 6 unidades consumidoras.
- 
-README.md
-Model for Project Presentation and Folder Structure (in Portuguese)
-Estrutura de Arquivos e Pastas
-A estrutura aqui apresentada é uma simplificação daquela proposta pelo Cookiecutter Data Science. Também será aceito que o projeto adote a estrutura completa do Cookiecutter Data Science e isso será considerado um diferencial. A estrutura geral é a seguinte e será detalhada a seguir:
-
-├── README.md          <- apresentação do projeto
+├── README.md          <-  IT304S-Trabalho-Parte-2
+|                          - Os dados foram previamente preparados para posterior análise de viabilidade de migração para o Mercado Livre de Energia.
+|                          - Os dados foram coletados de uma planilha preenchida manualmente no Google Drive e tratados na plataforma Colab. 
+|                          - Foram utilizadas técnicas eliminação de colunas sem dados e de preenchimento de dados faltantes com interpolação quadrática e backward fill.
+|                          - Ao todo foram tratados dados de 6 unidades consumidoras.
 │
 ├── data
-│   ├── external       <- dados de terceiros
-│   ├── interim        <- dados intermediários, e.g., resultado de transformação
-│   ├── processed      <- dados finais usados para a modelagem
-│   └── raw            <- dados originais sem modificações
+│   ├── external       <- planilhas de faturas, instruções do trabalho
+│   ├── interim        <- não aplicável
+│   ├── processed      <- dados modificados csv das ucs
+│   └── raw            <- dados originais csv das ucs
 │
-├── notebooks          <- Jupyter notebooks ou equivalentes
+├── notebooks          <- notebooks utilizados: copias do byron e diana, notebooks produzidos das ucs
 │
-├── src                <- fonte em linguagem de programação ou sistema (e.g., Orange)
-│   └── README.md      <- instruções básicas de instalação/execução
+├── src                <- não aplicável
+│   └── README.md      <- não aplicável
 │
-└── assets             <- mídias usadas no projeto
+└── assets             <- video do projeto
+
 Na raiz deve haver um arquivo de nome README.md contendo a apresentação do projeto, como detalhado na seção seguinte.
 
 data
