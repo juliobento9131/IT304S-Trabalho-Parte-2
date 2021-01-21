@@ -1,5 +1,5 @@
 # Projeto `VIABILIDADE ECONÔMICA DE MIGRAÇÃO PARA O ACL DA UFFS – UNIVERSIDADE FEDERAL DA FRONTEIRA SUL`
-# Project `ECONOMIC FEASIBILITY OF MIGRATION FOR ACL UFFS - FEDERAL UNIVERSITY OF FRONTIER SOUTH`
+# Project `ECONOMIC FEASIBILITY OF MIGRATION FOR ACL UFFS – UNIVERSIDADE FEDERAL DA FRONTEIRA SUL`
 
 # Descrição Resumida do Projeto
 ~~~
@@ -54,7 +54,7 @@ R: A recomendação é a contratação de 0,35MW médios na modalidade flex com 
 
 ## Objetivos do projeto
 ~~~
-<Como seu projeto propôs abordar o problema apresentado.>
+<O projeto conclui através dos dados das faturas a viabilidade da migração (Parte II) e resultou na sugestão de melhorias contratuais nos valores de demanda contratada e em alguns casos do tratamento da potência reativa excedente (Parte I.>
 ~~~
 
 # Recursos e Métodos
