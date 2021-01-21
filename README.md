@@ -76,15 +76,11 @@ Ferramenta 2 | colab.research.google.com| `<Plataforma do Google Colab onde fora
 
 ### Análise dos dados
 ~~~
-
 # Definição de ciência de dados 
-
 A ciência de dados pode ser definida como um conjunto de técnicas de analise de dados para obter e apresentar informações úteis para um usuario. 
 
 # Metodologia
-
 Uma metodologia muito utilizado para analisar dados é o chamado ``CRISP-DM", por suas siglas em inglês: Cross-Industry Standard Process for Data Mining. O CRISP-DM tem seis etapas que são:
-
 * **Business Understanding:** Definição dos objetivos, declaração do problema, * * pergunta de interesse.
 * **Data Understanding:** Utilização de nosso conhecimento para coletar os dados.
 * **Data Preparation:** Manipulação de dados para a eliminação de outliers e dados faltantes.
@@ -93,11 +89,18 @@ Uma metodologia muito utilizado para analisar dados é o chamado ``CRISP-DM", po
 * **Deployment:** Disponibilizar o análise de dados.
 
 # Business Understanding
-
 * **Definição dos objetivos:** O objetivo do presente notebook é apresentar as variaveis disponíveis no banco de dados UFFS.xlsx.
 * **Declaração do problema:** O arquivo UFFS.xlsx, contém as informações disponíveis das planilhas elétricas da UFFS, precisamos de fazer um analize exploratorio dos dados para conhecer os dados disponíveis da UFFS.
 * **Perguntas de Interesse:**
 Há dados faltantes?
+
+# Data Understanding
+* **Coleta dos dados:** Digitação dos dados das faturas em planilha eletrônica.
+
+# Data Preparation
+* **Eliminação de colunas com excesso de dados faltantes.
+* **Tratamento das colunas com dados faltantes com a utilização de inerpolação quadrática e backward fill.
+* **Tratamento das colunas para eliminação de outliers com o método Zscore.
 
 
 
