@@ -54,7 +54,7 @@ R: A recomendação é a contratação de 0,35MW médios na modalidade flex com 
 
 ## Objetivos do projeto
 ~~~
-<O projeto conclui através dos dados das faturas a viabilidade da migração (Parte II) e resultou na sugestão de melhorias contratuais nos valores de demanda contratada e em alguns casos do tratamento da potência reativa excedente (Parte I.>
+<Após a análise dos dados pode-se concluir que há viabilidade da migração (Parte II) e resultou na sugestão de melhorias contratuais nos valores de demanda contratada e em alguns casos do tratamento da potência reativa excedente (Parte I).>
 ~~~
 
 # Recursos e Métodos
@@ -74,6 +74,7 @@ Ferramenta 2 | colab.research.google.com| `<Plataforma do Google Colab onde fora
 
 # Metodologia
 ~~~
+## Análise dos dados
 # Definição de ciência de dados 
 
 A ciência de dados pode ser definida como um conjunto de técnicas de analise de dados para obter e apresentar informações úteis para um usuario. 
