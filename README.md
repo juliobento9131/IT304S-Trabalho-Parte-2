@@ -49,7 +49,7 @@ R: Para primeiro ano a economia estimada foi de 23 a 29% a depender a bandeira t
 Qual é o preço da energia a partir de quando compensa a migração?
 R: O Break Even Point ou preço de empate calculado foi de R$370,74 para a RGE e R$340,49 para a COPEL.
 Qual a recomendação para uma contratação? (Características de contrato como volume, flexibilidade, modulação, sazonalização).
-R: A recomendação é  a contratação de 0,35MW médios na modalidade flex com variação de 15% acima ou abaixo.
+R: A recomendação é a contratação de 0,35MW médios na modalidade flex com variação de 15% acima ou abaixo.
 ~~~
 
 ## Objetivos do projeto
