@@ -120,7 +120,7 @@ A avaliação da migração foi feita comparando os gastos com energia elétrica
 ~~~
 Inicialmente, atualizou-se a planilha base com todas faturas disponibilizadas da UFFS – Universidade Federal da Fronteira Sul e, posteriormente foram feitos tratamentos estatísticos (preenchimento de dados faltantes e tratamento de outliers) utilizando a plataforma Colab. Em seguida, com a série de dados ajustada de cada UC, foi utilizado o período de 2018 e 2019 como base para a sazonalidade de consumo. A seguir são colocadas as premissas utilizadas para a migração para o ACL – Ambiente de Contração Livre da referida universidade:
  - A partir dos dados de medição de consumo ponta e fora ponta verificados nos históricos de consumo, chegou-se ao consumo total, onde foram acrescentados 3% adicionais referentes às perdas da rede básica, a serem contratadas no ACL;
- -	Os valores em MWh foram transformados em MWmédios, notação utilizada no ACL para contratação de energia e, totalizou-se as médias de consumo com perdas das unidades onde chegou-se a um valor de 0,35 MW médios;
+ - Os valores em MWh foram transformados em MWmédios, notação utilizada no ACL para contratação de energia e, totalizou-se as médias de consumo com perdas das unidades onde chegou-se a um valor de 0,35 MW médios;
  - Com base no histórico de consumo verificado foi realizada a sazonalização do contrato de 0,35 MWmédios visando a melhor distribuição da carga ao longo do ano;
  - Foram considerados padrões mais utilizados pelos agentes de comercialização, como sazonalização de +/-15% e flexibilidade mensal de +/-15% em relação ao montante contratual;
  - Foram utilizadas as tarifas de energia elétrica vigentes na data de 18/01/2021 das distribuidoras locais RGE e COPEL, além das bandeiras tarifárias;
