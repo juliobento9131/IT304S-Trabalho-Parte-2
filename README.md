@@ -70,7 +70,7 @@ Base 2 | https://drive.google.com/drive/folders/1ZAIcggvx7E4GRHUXxhlhBKQJpz0bdlV
 Ferramenta | Endereço na Web | Resumo descritivo e uso
 ----- | ----- | -----
 Ferramenta 1 | https://drive.google.com/drive/folders/1ZAIcggvx7E4GRHUXxhlhBKQJpz0bdlV8 | `<Drive da disciplina IT304S compartilhado com os alunos - Google Drive>`
-Ferramenta 2 | colab.research.google.com| `<Plataforma do Google Colab onde foram tratados os dados>`
+Ferramenta 2 | https://colab.research.google.com/| `<Plataforma do Google Colab onde foram tratados os dados>`
 
 # Metodologia
 
