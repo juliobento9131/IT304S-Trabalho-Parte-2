@@ -54,7 +54,7 @@ R: A recomendação é a contratação de 0,35MW médios na modalidade flex com 
 
 ## Objetivos do projeto
 ~~~
-<Após a análise dos dados pode-se concluir que há viabilidade da migração (Parte II) e resultou na sugestão de melhorias contratuais nos valores de demanda contratada e em alguns casos do tratamento da potência reativa excedente (Parte I).>
+<Após a análise dos dados pode-se concluir que há viabilidade da migração (Parte II) e também resultou na sugestão de melhorias contratuais nos valores de demanda contratada e em alguns casos do tratamento da potência reativa excedente (Parte I).>
 ~~~
 
 # Recursos e Métodos
@@ -186,7 +186,7 @@ https://github.com/juliobento9131/IT304S_Trabalho_Parte_2/issues/6#issue-7914724
 ~~~
 Ao somar a totalidade das UCs, verifica-se os valores de economias previstas para os anos de 2022 até 2026 para esta universidade, conforme segue.
 ~~~
-
+https://github.com/juliobento9131/IT304S_Trabalho_Parte_2/issues/7#issue-791474295
 ~~~
 Com isso posto, é possível verificar a viabilidade econômica de migração para todas as UC's, com maior economia no final do ciclo considerando os preços de mercado da Tabela 1.
 ~~~
