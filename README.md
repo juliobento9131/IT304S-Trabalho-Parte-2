@@ -73,7 +73,8 @@ Ferramenta 1 | https://drive.google.com/drive/folders/1ZAIcggvx7E4GRHUXxhlhBKQJp
 Ferramenta 2 | colab.research.google.com| `<Plataforma do Google Colab onde foram tratados os dados>`
 
 # Metodologia
-`Análise dos dados`
+
+## Análise dos dados
 ~~~
 
 # Definição de ciência de dados 
