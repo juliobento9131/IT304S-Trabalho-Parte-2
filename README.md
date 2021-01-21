@@ -79,9 +79,26 @@ Ferramenta 2 | colab.research.google.com| `<Plataforma do Google Colab onde fora
 
 ## Detalhamento do Projeto
 ~~~
-<Apresente aqui detalhes da análise. Nesta seção ou na seção de Resultados podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com `~~~`, tal como `~~~python`.
+Inicialmente, atualizou-se a planilha base com todas faturas disponibilizadas da UFFS – Universidade Federal da Fronteira Sul e, posteriormente foram feitos tratamentos estatísticos (preenchimento de dados faltantes e tratamento de outliers) utilizando a plataforma Colab. Em seguida, com a série de dados ajustada de cada UC, foi utilizado o período de 2018 e 2019 como base para a sazonalidade de consumo. A seguir são colocadas as premissas utilizadas para a migração para o ACL – Ambiente de Contração Livre da referida universidade:
+	A partir dos dados de medição de consumo ponta e fora ponta verificados nos históricos de consumo, chegou-se ao consumo total, onde foram acrescentados 3% adicionais referentes às perdas da rede básica, a serem contratadas no ACL;
 
-Os destaques de código devem ser trechos pequenos de poucas linhas, que estejam diretamente ligados a alguma explicação. Não utilize trechos extensos de código. Se algum código funcionar online (tal como um Jupyter Notebook), aqui pode haver links. No caso do Jupyter, preferencialmente para o Binder abrindo diretamente o notebook em questão.>
+	Os valores em MWh foram transformados em MWmédios, notação utilizada no ACL para contratação de energia e, totalizou-se as médias de consumo com perdas das unidades onde chegou-se a um valor de 0,35 MW médios;
+
+	Com base no histórico de consumo verificado foi realizada a sazonalização do contrato de 0,35 MWmédios visando a melhor distribuição da carga ao longo do ano;
+
+	Foram considerados padrões mais utilizados pelos agentes de comercialização, como sazonalização de +/-15% e flexibilidade mensal de +/-15% em relação ao montante contratual;
+
+	Foram utilizadas as tarifas de energia elétrica vigentes na data de 18/01/2021 das distribuidoras locais RGE e COPEL, além das bandeiras tarifárias;
+
+	Para o mercado livre foram considerados preços de energia elétrica proveniente de fonte incentivada com 50% de desconto na TUSD, verificados no dia 18/01/2021;
+
+	Como se trata de um consumidor especial é obrigatória a contratação de energia incentivada para migração;
+
+	Foram considerados preços para um horizonte de 5 anos 2022 a 2026;
+
+	Como não foram liberados acessos aos contratos de fornecimento de energia considerou-se que a migração de todas as unidades ocorrerá em 01/01/2022;
+
+	Todos as tarifas e preços na mesma base de janeiro de 2021;
 ~~~
 
 ~~~python
