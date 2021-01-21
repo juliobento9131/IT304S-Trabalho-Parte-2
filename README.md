@@ -147,9 +147,8 @@ Os preços de mercado utilizados para energia incentivada 50% TUSD são os valor
 
 # Resultados e Discussão
 ### UC1
-~~~
 https://github.com/juliobento9131/IT304S_Trabalho_Parte_2/issues/1#issue-791443223
-~~~
+
 ### UC2
 ~~~
 
