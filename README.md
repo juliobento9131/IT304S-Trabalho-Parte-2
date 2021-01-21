@@ -168,16 +168,19 @@ https://github.com/juliobento9131/IT304S_Trabalho_Parte_2/issues/3#issue-7914608
 ~~~
 Para esta UC existe a necessidade de ajuste no contrato de demanda para o valor de 60 kW, com o intuito de somente adequação do valor do contrato que é 53 kW. De posse dos valores de tarifa atuais vigentes, assim como os encargos e perdas, abaixo são mostradas as economias previstas para os anos de 2022 até 2026 para esta UC, considerando também as bandeiras tarifárias vigentes.
 ~~~
+https://github.com/juliobento9131/IT304S_Trabalho_Parte_2/issues/4#issue-791462083
 
 ### UC5
 ~~~
 Para esta UC existe a necessidade de ajuste no contrato de demanda para o valor de 230 kW, com o intuito de somente adequação do valor do contrato que é 227 kW. De posse dos valores de tarifa atuais vigentes, assim como os encargos e perdas, abaixo são mostradas as economias previstas para os anos de 2022 até 2026 para esta UC, considerando também as bandeiras tarifárias vigentes.
 ~~~
 
+
 ### UC6
 ~~~
 Para esta UC existe a necessidade de ajuste no contrato de demanda para o valor de 230 kW, com o intuito de somente adequação do valor do contrato que é 220 kW. De posse dos valores de tarifa atuais vigentes, assim como os encargos e perdas, abaixo são mostradas as economias previstas para os anos de 2022 até 2026 para esta UC, considerando também as bandeiras tarifárias vigentes.
 ~~~
+
 
 ### TOTAL
 ~~~
