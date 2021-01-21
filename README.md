@@ -1,58 +1,14 @@
-# Estrutura de Arquivos e Pastas
-
-## `data`
-
-Dados utilizados no projeto respeitadas as possíveis implicações éticas, se você tiver licença para tal e se o volume for suportado pelo Github. Você pode optar por colocar um subconjunto ilustrativo dos dados.
-
-É importante que sejam colocados os dados originais (se for possível) para garantir a reprodutibilidade do processo. Os originais são colocados na subpasta `raw` se forem produzidos pela equipe e na subpasta `external` se forem de terceiros. Também podem ser colocados aqui dados intermediários (por exemplo, dados tratados, resumidos etc.) na pasta `interim`. Finalmente, coloque os dados finais que serviram de entrada para as suas análises na subpasta `processed`.
-
-## `notebooks`
-
-Código do seu projeto que pode ser executado online sem instalação de software, tal como um notebook em Jupyter ou equivalente.
-
-## `src`
-
-Código em alguma linguagem ou projeto em Orange, Weka e similares.
-
-Se for código em linguagem de programação, tente organizá-lo de forma que seja simples a sua execução por terceiros, por exemplo, acrescente as bibliotecas necessárias etc. Acrescente na raiz um arquivo `README.md` com as instruções básicas de instalação e execução.
-
-## `assets`
-
-Qualquer mídia usada no seu projeto: vídeo, ilustrações, arquivos PDF etc.
-
-# Modelo para Apresentação do Projeto
-
-Este é um guia de como produzir documentação em Markdown. Para entender como criar documentos em Markdown no Github, veja o material/vídeo:
-[Guia de Uso do Markdown](https://github.com/mc-unicamp/oficinas/tree/master/docs).
-
-Vide detalhes sobre o Markdown em: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-E mais especificamente sobre tabelas em: [Organizing information with tables](https://help.github.com/en/articles/organizing-information-with-tables)
-
-O projeto pode ser apresentado em uma das possíveis formas:
-1. texto completo no arquivo `README.md`;
-2. texto no arquivo `README.md` e seção de Resultados e Discussão dentro de um notebook Jupyter ou equivalente -- nesse caso, deve haver um link para se abrir o notebook na respectiva seção;
-3. texto completo dentro de um notebook Jupyter ou equivalente -- nesse caso, o arquivo README.md deve conter pelo menos: o título, os componentes da equipe e um link para o notebook.
-
-Só será aceito o uso de notebook Jupyter (ou equivalente) para apresentação do projeto ou parte dele (formas 2 e 3), se for possível executá-lo online a partir de um link sem instalação local de software.
-
-Para todos os casos, a estrutura Markdown proposta abaixo poderá ser usada, dado que os notebooks aceitam Markdown.
-
-Segue abaixo o modelo de como deve ser apresentado e documentado o projeto. Tudo o que for indicado entre `<...>` indica algo que deve ser substituído pelo indicado. No modelo são colocados exemplos ilustrativos, que serão substituídos pelos do seu projeto.
-
-# Modelo para Apresentação do Projeto
-
 # Projeto `VIABILIDADE ECONÔMICA DE MIGRAÇÃO PARA O ACL DA UFFS – UNIVERSIDADE FEDERAL DA FRONTEIRA SUL`
 # Project `ECONOMIC FEASIBILITY OF MIGRATION FOR ACL UFFS - FEDERAL UNIVERSITY OF FRONTIER SOUTH`
 
 # Descrição Resumida do Projeto
 ~~~
-<Análise da viabilidade econômica de migração para o mercado livre da UFFS – Universidade Federal da Fronteira Sul, contemplando 6 UCs – Unidades Consumidoras do Grupo A com uma demanda de 1.022 kW de demanda contratada somando todas as UCs, mediante o diagnóstico das informações de demanda medida frente à contratada, análise de evolução de consumo e, foram sugeridas adequações no contrato das UCs, como forma de diminuir as penalidades por sobrecontração e/ou ajustes na demanda por subcontratação. Para cálculo da energia a ser contratada no mercado livre foram considerados os dados de medição colhidos nas faturas de energia elétrica com base na sazonalidade dos meses dos anos de 2018 e 2019. Esta etapa do trabalho não contempla os ajustes dos fatores de potência das unidades consumidoras, pois no Trabalho 01 já foram colocadas as sugestões relativas à este ponto e, não interfere na análise de viabilidade de migração para o mercado livre.>
+<Análise da viabilidade econômica de migração para o mercado livre da UFFS – Universidade Federal da Fronteira Sul, contemplando 6 UCs – Unidades Consumidoras do Grupo A - com uma demanda contratada total de 1.022 kW, mediante o diagnóstico das informações oriundas das faturas de energia elétrica.>
 ~~~
 
 # Abstract in English
 ~~~
-<Analysis of the economic feasibility of migrating to the free market from UFFS - Federal University of the Southern Frontier, covering 6 UCs - Group A Consumer Units with a demand of 1,022 kW of contracted demand adding up all UCs, by diagnosing the measured demand information compared to the contractor, analysis of the evolution of consumption, and adjustments were suggested in the UCs contract, as a way of reducing penalties for over contracting and / or adjustments in the demand for subcontracting. In order to calculate the energy to be contracted in the free market, the measurement data collected in the electricity bills were considered based on the seasonality of the months of the years 2018 and 2019. This step of the work does not include the adjustments of the power factors of the consumer units , as in Work 01, suggestions regarding this point have already been made, and it does not interfere in the analysis of the feasibility of migration to the free market.>
+<Analysis of the economic feasibility of migrating to the free market from UFFS - Federal University of the Southern Frontier, covering 6 UCs - Group A Consumer Units - with a total contracted demand of 1,022 kW, by diagnosing the information from the electricity bills.>
 ~~~
 
 # Equipe
@@ -66,7 +22,9 @@ Segue abaixo o modelo de como deve ser apresentado e documentado o projeto. Tudo
 
 # Introdução e Motivação
 ~~~
-<Descrição do tema do projeto, incluindo motivação, contexto gerador e caracterização do problema. A introdução também pode apresentar iniciativas correlatas para lidar com o problema (não obrigatório) e deve introduzir de forma mais detalhada que o resumo a solução proposta e resultados alcançados. Aqui também são apresentadas as seções do projeto.>
+<A migração para o mercado livre de contratação de energia elétrica pode representar uma grande oportunidade de economia com os gastos com esse insumo essencial para qualquer atividade. A Unicamp é um case de sucesso nesse aspecto e por meio da disciplina IT304S ofertada no segundo semestre de 2020 será possível a 
+
+Descrição do tema do projeto, incluindo motivação, contexto gerador e caracterização do problema. A introdução também pode apresentar iniciativas correlatas para lidar com o problema (não obrigatório) e deve introduzir de forma mais detalhada que o resumo a solução proposta e resultados alcançados. Aqui também são apresentadas as seções do projeto.>
 ~~~
 
 ## Perguntas de Pesquisa
