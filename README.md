@@ -26,6 +26,7 @@
 A Unicamp é um case de sucesso e referência nesse contexto e por meio da disciplina IT304S ofertada no segundo semestre de 2020 foram apresentadas, dentre vários assuntos correlatos, as premissas para migração para o ACL. 
 Assim foi realizada a análise da Universidade Federal da Fronteira Sul - UFFS com o objetivo de concluir se é viável ou não a sua migração.
 De forma resumida são apresentados a seguir a metodologia e considerações para a análise:
+ - Digitação dos dados das faturas escaneadas em pdf para planilha salva no Google Drive;
  - Tratamentos estatísticos (eliminação de dados faltantes e tratamento de outliers) utilizando a plataforma Colab; 
  - Foi considerado o período de 2018 e 2019 como base para a sazonalidade de consumo e da demanda; 
  - Considerado 3% adicionais referentes às perdas da Rede Básica;
@@ -42,9 +43,13 @@ De forma resumida são apresentados a seguir a metodologia e considerações par
 ## Perguntas de Pesquisa
 ~~~
 Vale a pena migrar para o Mercado Livre? Como consumidor livre ou especial?
+R:Sim. Considerando as premissas aprensentadas como ponto de partida para a análise a migração é extremamente vantajosa.
 Qual é a economia estimada?
+R: Para primeiro ano a economia estimada foi de 23 a 29% a depender a bandeira tarifária considerada. Os demais anos analisados estão detalhados no arquivo 
 Qual é o preço da energia a partir de quando compensa a migração?
+R: O Break Even Point ou preço de empate calculado foi de R$370,74 para a RGE e R$340,49 para a COPEL.
 Qual a recomendação para uma contratação? (Características de contrato como volume, flexibilidade, modulação, sazonalização).
+R: A recomendação é  a contratação de 0,35MW médios na modalidade flex com variação de 15% acima ou abaixo.
 ~~~
 
 ## Objetivos do projeto
