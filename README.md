@@ -22,7 +22,9 @@
 
 # Introdução e Motivação
 ~~~
-<A migração para o mercado livre de contratação de energia elétrica ou Ambiente de Livre Contratação - ACL  pode representar uma grande oportunidade de economia com os gastos com esse insumo essencial para qualquer atividade. A Unicamp é um case de sucesso e referência nesse contexto e por meio da disciplina IT304S ofertada no segundo semestre de 2020 foram apresentadas, dentre vários assuntos correlatos, as premissas para migração para o ACL. Assim foi realizada a análise da Universidade Federal da Fronteira Sul - UFFS com o objetivo de concluir se é viável ou não a sua migração.
+<A migração para o mercado livre de contratação de energia elétrica ou Ambiente de Livre Contratação - ACL  pode representar uma grande oportunidade de economia com os gastos com esse insumo essencial para qualquer atividade. 
+A Unicamp é um case de sucesso e referência nesse contexto e por meio da disciplina IT304S ofertada no segundo semestre de 2020 foram apresentadas, dentre vários assuntos correlatos, as premissas para migração para o ACL. 
+Assim foi realizada a análise da Universidade Federal da Fronteira Sul - UFFS com o objetivo de concluir se é viável ou não a sua migração.
 De forma resumida são apresentados a seguir a metodologia e considerações para a análise:
  - Tratamentos estatísticos (eliminação de dados faltantes e tratamento de outliers) utilizando a plataforma Colab; 
  - Foi considerado o período de 2018 e 2019 como base para a sazonalidade de consumo e da demanda; 
@@ -33,9 +35,8 @@ De forma resumida são apresentados a seguir a metodologia e considerações par
  - Foram considerados preços para um horizonte de 5 anos 2022 a 2026;
  - Não foram considerados os valores de consumo ponta, fora ponta e demanda referentes ao ano de 2020, dado o cenário de pandemia da COVID-19;
  - Foram considerados os impostos como PIS, COFINS e ICMS, dado que se trata de instituição de ensino e o ICMS é custo, logo foi considerado no estudo.
-
-
-Descrição do tema do projeto, incluindo motivação, contexto gerador e caracterização do problema. A introdução também pode apresentar iniciativas correlatas para lidar com o problema (não obrigatório) e deve introduzir de forma mais detalhada que o resumo a solução proposta e resultados alcançados. Aqui também são apresentadas as seções do projeto.>
+ Foi concluído que é viável e vantajosa a migração e o retorno médio do investimento se dará em um prazo muito curto (menor que 2 meses).
+>
 ~~~
 
 ## Perguntas de Pesquisa
