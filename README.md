@@ -80,17 +80,17 @@ Ferramenta 2 | https://colab.research.google.com/| `<Plataforma do Google Colab 
 A ciência de dados pode ser definida como um conjunto de técnicas de analise de dados para obter e apresentar informações úteis para um usuario. 
 
 # Metodologia
-Uma metodologia muito utilizado para analisar dados é o chamado ``CRISP-DM", por suas siglas em inglês: Cross-Industry Standard Process for Data Mining. O CRISP-DM tem seis etapas que são:
+Uma metodologia muito utilizada para analisar dados é a chamada ``CRISP-DM", por suas siglas em inglês: Cross-Industry Standard Process for Data Mining. O CRISP-DM tem seis etapas que são:
  - Business Understanding:** Definição dos objetivos, declaração do problema, * * pergunta de interesse.
  - Data Understanding:** Utilização de nosso conhecimento para coletar os dados.
  - Data Preparation:** Manipulação de dados para a eliminação de outliers e dados faltantes.
  - Modeling:** Modelo ou abordagem utilizado para estudar o comportamento de nosso sistema a partir de nossos dados.
  - Evaluation:** Avaliação dos resultados obtidos, no contexto se são de ajuda para responder nossa pergunta de interesse.
- - Deployment:** Disponibilizar o análise de dados.
+ - Deployment:** Disponibilizar a análise de dados.
 
 # Business Understanding
  - Definição dos objetivos:** O objetivo do presente notebook é apresentar as variaveis disponíveis no banco de dados UFFS.xlsx.
- - Declaração do problema:** O arquivo UFFS.xlsx, contém as informações disponíveis das planilhas elétricas da UFFS, precisamos de fazer um analize exploratorio dos dados para conhecer os dados disponíveis da UFFS.
+ - Declaração do problema:** O arquivo UFFS.xlsx, contém as informações disponíveis das planilhas elétricas da UFFS, precisamos de fazer uma análise exploratoria dos dados para conhecer os dados disponíveis da UFFS.
  - Perguntas de Interesse:**
 Há dados faltantes?
 
@@ -103,7 +103,7 @@ Há dados faltantes?
  - Tratamento das colunas para eliminação de outliers com o método Zscore.
 
 # Modeling/Evaluation
- - Foi utilizado o modelo ARIMA para fazer uma fazer uma previsão dos dos ultimos doze meses. Foi observada uma discrepância na parte final do gráfico que já era esperada coniderando a drástica redução do consumo de energia por motivo da pendemia de COVID-19.
+ - Foi utilizado o modelo ARIMA para fazer uma fazer uma previsão dos dos ultimos doze meses. Foi observada uma discrepância na parte final do gráfico que já era esperada considerando a drástica redução do consumo de energia por motivo da pendemia de COVID-19.
  
 # Deployment
  - Os dados de cada UC foram disponibilizados em formato csv.
@@ -118,7 +118,9 @@ A avaliação da migração foi feita comparando os gastos com energia elétrica
 
 ## Detalhamento do Projeto
 ~~~
-Inicialmente, atualizou-se a planilha base com todas faturas disponibilizadas da UFFS – Universidade Federal da Fronteira Sul e, posteriormente foram feitos tratamentos estatísticos (preenchimento de dados faltantes e tratamento de outliers) utilizando a plataforma Colab. Em seguida, com a série de dados ajustada de cada UC, foi utilizado o período de 2018 e 2019 como base para a sazonalidade de consumo. A seguir são colocadas as premissas utilizadas para a migração para o ACL – Ambiente de Contração Livre da referida universidade:
+Inicialmente, atualizou-se a planilha base com todas faturas disponibilizadas da UFFS – Universidade Federal da Fronteira Sul e, posteriormente foram feitos tratamentos estatísticos (preenchimento de dados faltantes e tratamento de outliers) utilizando a plataforma Colab. 
+Em seguida, com a série de dados ajustada de cada UC, foi utilizado o período de 2018 e 2019 como base para a sazonalidade de consumo. 
+A seguir são colocadas as premissas utilizadas para a migração para o ACL – Ambiente de Contração Livre da referida universidade:
  - A partir dos dados de medição de consumo ponta e fora ponta verificados nos históricos de consumo, chegou-se ao consumo total, onde foram acrescentados 3% adicionais referentes às perdas da rede básica, a serem contratadas no ACL;
  - Os valores em MWh foram transformados em MWmédios, notação utilizada no ACL para contratação de energia e, totalizou-se as médias de consumo com perdas das unidades onde chegou-se a um valor de 0,35 MW médios;
  - Com base no histórico de consumo verificado foi realizada a sazonalização do contrato de 0,35 MWmédios visando a melhor distribuição da carga ao longo do ano;
@@ -142,7 +144,9 @@ Os preços de mercado utilizados para energia incentivada 50% TUSD são os valor
 
 ## Evolução do Projeto
 ~~~
-A primeira parte do trabalho não trouxe maiores dificuldades visto que para a sua realização foram utilizadas ferramentas que os membros da equipe dominam, como por exemplo: excel, word, google drive, google sheets, etc. Entretanto para a segunda parte onde foram envolvidas as plataformas "Colab" e "Github" houve uma dificuldade inicial oriunda da falta de contato e traquejo dos membros da equipe com as novas atividades propostas nessas plataformas. A curva de aprendizado nessas ferramentas tiveram de ser aceleradas para finalização do projeto. Os arquivos de exemplo confeccionados por Byron Acunia e Diana ajudaram nesse processo.
+A primeira parte do trabalho não trouxe maiores dificuldades visto que para a sua realização foram utilizadas ferramentas que os membros da equipe dominam, como por exemplo: excel, word, google drive, google sheets, etc. 
+Entretanto para a segunda parte onde foram envolvidas as plataformas "Colab" e "Github" houve uma dificuldade inicial oriunda da falta de contato e traquejo dos membros da equipe com as novas atividades propostas nessas plataformas. 
+A curva de aprendizado nessas ferramentas tiveram de ser aceleradas para finalização do projeto. Os arquivos de exemplo confeccionados por Byron Acunia e Diana ajudaram nesse processo.
 ~~~
 
 # Resultados e Discussão
