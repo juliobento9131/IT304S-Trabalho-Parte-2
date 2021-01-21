@@ -45,7 +45,7 @@ De forma resumida são apresentados a seguir a metodologia e considerações par
 Vale a pena migrar para o Mercado Livre? Como consumidor livre ou especial?
 R:Sim. Considerando as premissas aprensentadas como ponto de partida para a análise a migração é extremamente vantajosa.
 Qual é a economia estimada?
-R: Para primeiro ano a economia estimada foi de 23 a 29% a depender a bandeira tarifária considerada. Os demais anos analisados estão detalhados no arquivo 
+R: Para primeiro ano a economia estimada foi de 23 a 29% a depender a bandeira tarifária considerada. Os demais anos analisados estão detalhados no arquivo (nome do arquivo) 
 Qual é o preço da energia a partir de quando compensa a migração?
 R: O Break Even Point ou preço de empate calculado foi de R$370,74 para a RGE e R$340,49 para a COPEL.
 Qual a recomendação para uma contratação? (Características de contrato como volume, flexibilidade, modulação, sazonalização).
@@ -74,6 +74,28 @@ Ferramenta 2 | colab.research.google.com| `<Plataforma do Google Colab onde fora
 
 # Metodologia
 ~~~
+# Definição de ciência de dados 
+
+A ciência de dados pode ser definida como um conjunto de técnicas de analise de dados para obter e apresentar informações úteis para um usuario. 
+
+# Metodologia
+
+Uma metodologia muito utilizado para analisar dados é o chamado ``CRISP-DM", por suas siglas em inglês: Cross-Industry Standard Process for Data Mining. O CRISP-DM tem seis etapas que são:
+
+* **Business Understanding:** Definição dos objetivos, declaração do problema, * * pergunta de interesse.
+* **Data Understanding:** Utilização de nosso conhecimento para coletar os dados.
+* **Data Preparation:** Manipulação de dados para a eliminação de outliers e dados faltantes.
+* **Modeling:** Modelo ou abordagem utilizado para estudar o comportamento de nosso sistema a partir de nossos dados.
+* **Evaluation:** Avaliação dos resultados obtidos, no contexto se são de ajuda para responder nossa pergunta de interesse.
+* **Deployment:** Disponibilizar o análise de dados.
+
+# Business Understanding
+
+* **Definição dos objetivos:** O objetivo do presente notebook é apresentar as variaveis disponíveis no banco de dados UFFS.xlsx.
+* **Declaração do problema:** O arquivo UFFS.xlsx, contém as informações disponíveis das planilhas elétricas da UFFS, precisamos de fazer um analize exploratorio dos dados para conhecer os dados disponíveis da UFFS.
+* **Perguntas de Interesse:**
+Há dados faltantes?
+
 
 
 <Abordagem/metodologia adotada, incluindo especificação de quais técnicas foram exploradas, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas.>
