@@ -60,19 +60,17 @@ R: A recomendação é a contratação de 0,35MW médios na modalidade flex com 
 # Recursos e Métodos
 
 ## Bases de Dados
-`<Elencar bases de dados utilizadas no projeto preferencialmente no formato da tabela a seguir.>`
 Base de Dados | Endereço na Web | Resumo descritivo e uso
 ----- | ----- | -----
-Base 1 | http://base1.org/ | `<Descrição da Base 1 e para que ela foi usada no projeto.>`
-Base 2 | http://base2.org/ | `<Descrição da Base 2 e para que ela foi usada no projeto.>`
+Base 1 | https://docs.google.com/spreadsheets/d/18-6rlREK_NcuQ1HUxrDe3B2V8_Uoz-Fx/edit?rtpof=true#gid=677347183 | `<Planilha preenchida com os dados das faturas>`
+Base 2 | https://drive.google.com/drive/folders/1ZAIcggvx7E4GRHUXxhlhBKQJpz0bdlV8 | `<Faturas de energia elétrica escaneadas>`
 
 ## Ferramentas
 
-`<Elencar ferramentas utilizadas no projeto preferencialmente no formato da tabela a seguir.>`
 Ferramenta | Endereço na Web | Resumo descritivo e uso
 ----- | ----- | -----
-Ferramenta 1 | http://ferramenta1.org/ | `<Descrição da Ferramenta 1 e para que ela foi usada no projeto.>`
-Ferramenta 2 | http://ferramenta2.org/ | `<Descrição da Ferramenta 2 e para que ela foi usada no projeto.>`
+Ferramenta 1 | https://drive.google.com/drive/folders/1ZAIcggvx7E4GRHUXxhlhBKQJpz0bdlV8 | `<Drive da disciplina IT304S compartilhado com os alunos - Google Drive>`
+Ferramenta 2 | colab.research.google.com| `<Plataforma do Google Colab onde foram tratados os dados>`
 
 # Metodologia
 ~~~
