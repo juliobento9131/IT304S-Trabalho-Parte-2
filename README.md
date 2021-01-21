@@ -138,7 +138,6 @@ Os preços de mercado utilizados para energia incentivada 50% TUSD são os valor
                                                              2024  183
                                                              2025  170
                                                              2026  160
-
 ~~~
 
 ## Evolução do Projeto
