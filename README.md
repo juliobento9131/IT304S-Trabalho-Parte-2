@@ -113,7 +113,7 @@ Há dados faltantes?
 
 ### Avaliação da migração
 ~~~
-A avaliação da migração foi feita comparando os gastos com energia elétrica considerando a forma convencional de fornecimento cativo e a com a opção de contratação no mercado livre. A cada mês foi computada a diferença e apresentada em forma de tabela e foi totalizada ao final do período de 5 anos (2022-2026).  
+A avaliação da migração foi feita comparando os gastos com energia elétrica considerando a forma convencional de fornecimento cativo e a com a opção de contratação no mercado livre. A cada mês foi computada a diferença e separados por UC ano a ano. No final foi totalizada a economia no período de 5 anos (2022-2026).  
 ~~~
 
 ## Detalhamento do Projeto
@@ -142,7 +142,7 @@ Os preços de mercado utilizados para energia incentivada 50% TUSD são os valor
 
 ## Evolução do Projeto
 ~~~
-<Relate a evolução do projeto: possíveis problemas enfrentados e possíveis mudanças de trajetória. Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.>
+A primeira parte do trabalho não trouxe maiores dificuldades visto que para a sua realização foram utilizadas ferramentas que os membros da equipe dominam, como por exemplo: excel, word, google drive, google sheets, etc. Entretanto para a segunda parte onde foram envolvidas as plataformas "Colab" e "Github" houve uma dificuldade inicial oriunda da falta de contato e traquejo dos membros da equipe com as novas atividades propostas nessas plataformas. A curva de aprendizado nessas ferramentas tiveram de ser aceleradas para finalização do projeto. Os arquivos de exemplo confeccionados por Byron Acunia e Diana ajudaram nesse processo.
 ~~~
 
 # Resultados e Discussão
