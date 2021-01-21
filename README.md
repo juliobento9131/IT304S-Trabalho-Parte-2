@@ -1,26 +1,5 @@
 # Estrutura de Arquivos e Pastas
 
-A estrutura aqui apresentada é uma simplificação daquela proposta pelo [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/). Também será aceito que o projeto adote a estrutura completa do Cookiecutter Data Science e isso será considerado um diferencial. A estrutura geral é a seguinte e será detalhada a seguir:
-
-~~~
-├── README.md          <- apresentação do projeto
-│
-├── data
-│   ├── external       <- dados de terceiros
-│   ├── interim        <- dados intermediários, e.g., resultado de transformação
-│   ├── processed      <- dados finais usados para a modelagem
-│   └── raw            <- dados originais sem modificações
-│
-├── notebooks          <- Jupyter notebooks ou equivalentes
-│
-├── src                <- fonte em linguagem de programação ou sistema (e.g., Orange)
-│   └── README.md      <- instruções básicas de instalação/execução
-│
-└── assets             <- mídias usadas no projeto
-~~~
-
-Na raiz deve haver um arquivo de nome `README.md` contendo a apresentação do projeto, como detalhado na seção seguinte.
-
 ## `data`
 
 Dados utilizados no projeto respeitadas as possíveis implicações éticas, se você tiver licença para tal e se o volume for suportado pelo Github. Você pode optar por colocar um subconjunto ilustrativo dos dados.
@@ -63,21 +42,24 @@ Segue abaixo o modelo de como deve ser apresentado e documentado o projeto. Tudo
 
 # Modelo para Apresentação do Projeto
 
-# Projeto `<Título em Português>`
-# Project `<Title in English>`
+# Projeto `VIABILIDADE ECONÔMICA DE MIGRAÇÃO PARA O ACL DA UFFS – UNIVERSIDADE FEDERAL DA FRONTEIRA SUL`
+# Project `ECONOMIC FEASIBILITY OF MIGRATION FOR ACL UFFS - FEDERAL UNIVERSITY OF FRONTIER SOUTH`
 
 # Descrição Resumida do Projeto
 ~~~
-<Descreva resumidamente o que fará o projeto. O resumo idealmente deve: apresentar o contexto; indicar o problema; apresentar a sua solução para o problema; indicar porque a sua solução é melhor do que os esforços atuais (não obrigatório); concluir com os resultados alcançados.>
+<Análise da viabilidade econômica de migração para o mercado livre da UFFS – Universidade Federal da Fronteira Sul, contemplando 6 UCs – Unidades Consumidoras do Grupo A com uma demanda de 1.022 kW de demanda contratada somando todas as UCs, mediante o diagnóstico das informações de demanda medida frente à contratada, análise de evolução de consumo e, foram sugeridas adequações no contrato das UCs, como forma de diminuir as penalidades por sobrecontração e/ou ajustes na demanda por subcontratação. Para cálculo da energia a ser contratada no mercado livre foram considerados os dados de medição colhidos nas faturas de energia elétrica com base na sazonalidade dos meses dos anos de 2018 e 2019. Esta etapa do trabalho não contempla os ajustes dos fatores de potência das unidades consumidoras, pois no Trabalho 01 já foram colocadas as sugestões relativas à este ponto e, não interfere na análise de viabilidade de migração para o mercado livre.>
 ~~~
 
 # Abstract in English
 ~~~
-<English version of the abstract.>
+<Analysis of the economic feasibility of migrating to the free market from UFFS - Federal University of the Southern Frontier, covering 6 UCs - Group A Consumer Units with a demand of 1,022 kW of contracted demand adding up all UCs, by diagnosing the measured demand information compared to the contractor, analysis of the evolution of consumption, and adjustments were suggested in the UCs contract, as a way of reducing penalties for over contracting and / or adjustments in the demand for subcontracting. In order to calculate the energy to be contracted in the free market, the measurement data collected in the electricity bills were considered based on the seasonality of the months of the years 2018 and 2019. This step of the work does not include the adjustments of the power factors of the consumer units , as in Work 01, suggestions regarding this point have already been made, and it does not interfere in the analysis of the feasibility of migration to the free market.>
 ~~~
 
 # Equipe
-* `<nome completo>` - `<RA>`
+* `PEDRO PAULO CUNHA` `RA: 262248` 
+* `JULIO CÉSAR BENTO` `RA: 262270`
+* `DANILO FERNANDES PIRES` `RA: 210327`
+
 
 # Vídeo do Projeto
 `<coloque um link para o vídeo apresentado o projeto.>`
@@ -89,7 +71,10 @@ Segue abaixo o modelo de como deve ser apresentado e documentado o projeto. Tudo
 
 ## Perguntas de Pesquisa
 ~~~
-<Perguntas de pesquisa que o projeto pretende responder ou hipóteses a serem avaliadas, enunciadas de maneira objetiva e verificável.>
+Vale a pena migrar para o Mercado Livre? Como consumidor livre ou especial?
+Qual é a economia estimada?
+Qual é o preço da energia a partir de quando compensa a migração?
+Qual a recomendação para uma contratação? (Características de contrato como volume, flexibilidade, modulação, sazonalização).
 ~~~
 
 ## Objetivos do projeto
