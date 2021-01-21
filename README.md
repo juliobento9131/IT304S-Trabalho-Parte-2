@@ -74,7 +74,7 @@ Ferramenta 2 | colab.research.google.com| `<Plataforma do Google Colab onde fora
 
 # Metodologia
 
-## Análise dos dados
+### Análise dos dados
 ~~~
 
 # Definição de ciência de dados 
