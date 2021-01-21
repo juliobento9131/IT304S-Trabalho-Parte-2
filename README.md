@@ -108,19 +108,12 @@ Há dados faltantes?
 # Deployment
  - Os dados de cada UC foram disponibilizados em formato csv.
  
- Fonte: notebook gerado na aula do dia 14-12-2020. 
+ Fonte: notebook gerado na aula do dia 14-12-2020. <https://github.com/byronacunia/IT304S.git>
 ~~~
 
 ### Avaliação da migração
 ~~~
-# 
- - Eliminação de colunas com excesso de dados faltantes.
- - Tratamento das colunas com dados faltantes com a utilização de inerpolação quadrática e backward fill.
- - Tratamento das colunas para eliminação de outliers com o método Zscore.
-~~~
-
-
-<Abordagem/metodologia adotada, incluindo especificação de quais técnicas foram exploradas, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas.>
+A avaliação da migração foi feita comparando os gastos com energia elétrica considerando a forma convencional de fornecimento cativo e a com a opção de contratação no mercado livre. A cada mês foi computada a diferença e apresentada em forma de tabela e foi totalizada ao final do período de 5 anos (2022-2026).  
 ~~~
 
 ## Detalhamento do Projeto
@@ -137,6 +130,15 @@ Inicialmente, atualizou-se a planilha base com todas faturas disponibilizadas da
  - Como não foram liberados acessos aos contratos de fornecimento de energia considerou-se que a migração de todas as unidades ocorrerá em 01/01/2022;
  - Todos as tarifas e preços na mesma base de janeiro de 2021;
  - Foram considerados os impostos como PIS, COFINS e ICMS, dado que se trata de instituição de ensino e o ICMS é custo, logo foi considerado no estudo.
+Reforçando que a sazonalização deve ser realizada anualmente de forma antecipada, normalmente entre os meses de outubro e novembro do ano anterior ao início do período de fornecimento e, com isso, é possível solicitar propostas aos fornecedores de energia elétrica no ACL para esta referida universidade.  
+Os preços de mercado utilizados para energia incentivada 50% TUSD são os valores mostrados na abaixo, relativos a data do dia 18/01/2021 (obtidos sob consulta a empresa do ramo).
+                                                             Ano   R$/MWh
+                                                             2022  233
+                                                             2023  197
+                                                             2024  183
+                                                             2025  170
+                                                             2026  160
+
 ~~~
 
 ## Evolução do Projeto
@@ -149,6 +151,9 @@ Inicialmente, atualizou-se a planilha base com todas faturas disponibilizadas da
 
 
 
+
+
+
 <Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente).
 
 A discussão dos resultados também pode ser feita aqui na medida em que os resultados são apresentados ou em seção independente. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?>
@@ -156,10 +161,20 @@ A discussão dos resultados também pode ser feita aqui na medida em que os resu
 
 # Conclusões
 ~~~
-<Apresente aqui as conclusões finais do trabalho e as lições aprendidas.>
+Após análise individual das 6 UCs, foi possível consolidar a viabilidade econômica da migração para o ACL da UFFS – Universidade Federal da Fronteira Sul. Foram apuradas as diferenças cativo x livre para os anos de 2022 a 2026, considerando a aplicação ou não de bandeiras tarifárias. Foi considerado como investimento o emolumento de adesão à CCEE, R$ 7.000,00 a ser pago uma vez pelo cliente para início na CCEE e também os custos de adequação do SMF – Sistema de Medição para Faturamento das unidades, sendo de R$ 32.000,00 (R$ 8.000,00 por unidade) na RGE e R$ 30.000,00 ($ 15.000,00 por unidade) na COPEL, totalizando um investimento médio total de R$ 69.000,00, a depender das características físicas de cada unidade. Por fim, considerando que este investimento fosse quitado em 2022, ano previsto para migração total da universidade, abaixo é mostrado o payback previsto (em meses) contemplando a aplicação ou não de bandeiras, com base no valor da economia prevista para o mês. 
+
+                                                                   Ano 2022
+                                                             Investimento   Payback
+                                      Bandeira verde         69000          1,62 meses
+                                      Bandeira amarela       69000          1,50 meses
+                                      Bandeira vermelha 1    69000          1,30 meses
+                                      Bandeira vermelha 2    69000          1,18 meses
+                                                             
+Com esse estudo em questão, é possível solicitar propostas aos fornecedores de energia elétrica no ACL e, com isso a UFFS – Universidade Federal da Fronteira Sul poderia obter as economias previstas conforme colocado no item 1.1.7 e investir em outras áreas onde for mais necessário na universidade. 
+
 ~~~
 
 # Trabalhos Futuros
 ~~~
-<Indique trabalhos futuros a partir do ponto alcançado.>
+Este trabalho pode ser estendido a outras universidades públicas ou não para análise de viabilidade de migração ao ACL.
 ~~~
