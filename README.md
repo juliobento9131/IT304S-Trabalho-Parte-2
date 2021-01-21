@@ -147,31 +147,44 @@ Os preços de mercado utilizados para energia incentivada 50% TUSD são os valor
 
 # Resultados e Discussão
 ### UC1
+~~~
+Para esta UC existe a necessidade de ajuste no contrato de demanda para o valor de 220 kW, dado que a mesma vem desempenhando valores bem abaixo de 250 kW, atual contrato. De posse dos valores de tarifa atuais vigentes, assim como os encargos e perdas, abaixo são mostradas as economias previstas para os anos de 2022 até 2026 para esta UC, considerando também as bandeiras tarifárias vigentes.
+~~~
 https://github.com/juliobento9131/IT304S_Trabalho_Parte_2/issues/1#issue-791443223
 
 ### UC2
 ~~~
-
+Para esta UC existe a necessidade de ajuste no contrato de demanda para o valor de 270 kW, dado que a mesma vem desempenhando valores muito acima de 197 kW, atual contrato. De posse dos valores de tarifa atuais vigentes, assim como os encargos e perdas, abaixo são mostradas as economias previstas para os anos de 2022 até 2026 para esta UC, considerando também as bandeiras tarifárias vigentes.
 ~~~
+
+
 ### UC3
 ~~~
-
+Para esta UC existe a necessidade de ajuste no contrato de demanda para o valor de 100 kW, dado que a mesma vem desempenhando valores muito acima de 75 kW, atual contrato. De posse dos valores de tarifa atuais vigentes, assim como os encargos e perdas, abaixo são mostradas as economias previstas para os anos de 2022 até 2026 para esta UC, considerando também as bandeiras tarifárias vigentes.
 ~~~
+
 ### UC4
 ~~~
-
+Para esta UC existe a necessidade de ajuste no contrato de demanda para o valor de 60 kW, com o intuito de somente adequação do valor do contrato que é 53 kW. De posse dos valores de tarifa atuais vigentes, assim como os encargos e perdas, abaixo são mostradas as economias previstas para os anos de 2022 até 2026 para esta UC, considerando também as bandeiras tarifárias vigentes.
 ~~~
+
 ### UC5
 ~~~
-
+Para esta UC existe a necessidade de ajuste no contrato de demanda para o valor de 230 kW, com o intuito de somente adequação do valor do contrato que é 227 kW. De posse dos valores de tarifa atuais vigentes, assim como os encargos e perdas, abaixo são mostradas as economias previstas para os anos de 2022 até 2026 para esta UC, considerando também as bandeiras tarifárias vigentes.
 ~~~
+
 ### UC6
 ~~~
-
-~~~
-## TOTAL
+Para esta UC existe a necessidade de ajuste no contrato de demanda para o valor de 230 kW, com o intuito de somente adequação do valor do contrato que é 220 kW. De posse dos valores de tarifa atuais vigentes, assim como os encargos e perdas, abaixo são mostradas as economias previstas para os anos de 2022 até 2026 para esta UC, considerando também as bandeiras tarifárias vigentes.
 ~~~
 
+### TOTAL
+~~~
+Ao somar a totalidade das UCs, verifica-se os valores de economias previstas para os anos de 2022 até 2026 para esta universidade, conforme segue.
+~~~
+
+~~~
+Com isso posto, é possível verificar a viabilidade econômica de migração para todas as UC's, com maior economia no final do ciclo considerando os preços de mercado da Tabela 1.
 ~~~
 
 # Conclusões
