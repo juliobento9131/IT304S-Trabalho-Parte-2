@@ -73,8 +73,9 @@ Ferramenta 1 | https://drive.google.com/drive/folders/1ZAIcggvx7E4GRHUXxhlhBKQJp
 Ferramenta 2 | colab.research.google.com| `<Plataforma do Google Colab onde foram tratados os dados>`
 
 # Metodologia
+`Análise dos dados`
 ~~~
-## `Análise dos dados`
+
 # Definição de ciência de dados 
 
 A ciência de dados pode ser definida como um conjunto de técnicas de analise de dados para obter e apresentar informações úteis para um usuario. 
