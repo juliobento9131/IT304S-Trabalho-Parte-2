@@ -146,16 +146,33 @@ Os preços de mercado utilizados para energia incentivada 50% TUSD são os valor
 ~~~
 
 # Resultados e Discussão
+## UC1
 ~~~
 
+~~~
+## UC2
+~~~
 
+~~~
+## UC3
+~~~
 
+~~~
+## UC4
+~~~
 
+~~~
+## UC5
+~~~
 
+~~~
+## UC6
+~~~
 
-<Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente).
+~~~
+## TOTAL
+~~~
 
-A discussão dos resultados também pode ser feita aqui na medida em que os resultados são apresentados ou em seção independente. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?>
 ~~~
 
 # Conclusões
@@ -170,7 +187,6 @@ Após análise individual das 6 UCs, foi possível consolidar a viabilidade econ
                                       Bandeira vermelha 2    69000          1,18 meses
                                                              
 Com esse estudo em questão, é possível solicitar propostas aos fornecedores de energia elétrica no ACL e, com isso a UFFS – Universidade Federal da Fronteira Sul poderia obter as economias previstas conforme colocado no item 1.1.7 e investir em outras áreas onde for mais necessário na universidade. 
-
 ~~~
 
 # Trabalhos Futuros
