@@ -74,6 +74,8 @@ Ferramenta 2 | colab.research.google.com| `<Plataforma do Google Colab onde fora
 
 # Metodologia
 ~~~
+
+
 <Abordagem/metodologia adotada, incluindo especificação de quais técnicas foram exploradas, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas.>
 ~~~
 
@@ -89,7 +91,8 @@ Inicialmente, atualizou-se a planilha base com todas faturas disponibilizadas da
  - Como se trata de um consumidor especial é obrigatória a contratação de energia incentivada para migração;
  - Foram considerados preços para um horizonte de 5 anos 2022 a 2026;
  - Como não foram liberados acessos aos contratos de fornecimento de energia considerou-se que a migração de todas as unidades ocorrerá em 01/01/2022;
- -Todos as tarifas e preços na mesma base de janeiro de 2021;
+ - Todos as tarifas e preços na mesma base de janeiro de 2021;
+ - Foram considerados os impostos como PIS, COFINS e ICMS, dado que se trata de instituição de ensino e o ICMS é custo, logo foi considerado no estudo.
 ~~~
 
 ## Evolução do Projeto
@@ -99,6 +102,9 @@ Inicialmente, atualizou-se a planilha base com todas faturas disponibilizadas da
 
 # Resultados e Discussão
 ~~~
+
+
+
 <Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente).
 
 A discussão dos resultados também pode ser feita aqui na medida em que os resultados são apresentados ou em seção independente. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?>
