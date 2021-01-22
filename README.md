@@ -43,9 +43,9 @@ De forma resumida são apresentados a seguir a metodologia e considerações par
 ## Perguntas de Pesquisa
 ~~~
 Vale a pena migrar para o Mercado Livre? Como consumidor livre ou especial?
-R:Sim. Considerando as premissas aprensentadas como ponto de partida para a análise a migração é extremamente vantajosa.
+R: Sim. Considerando as premissas aprensentadas como ponto de partida para a análise a migração é extremamente vantajosa.
 Qual é a economia estimada?
-R: Para primeiro ano a economia estimada foi de 23 a 29% a depender a bandeira tarifária considerada. Os demais anos analisados estão detalhados no arquivo (nome do arquivo) 
+R: Para primeiro ano a economia estimada foi de 23 a 29% a depender a bandeira tarifária considerada. Os demais anos analisados estão detalhados no arquivo (Trabalho 02_IT304S (GRUPO 15 - UFFS)_VF.PDF). 
 Qual é o preço da energia a partir de quando compensa a migração?
 R: O Break Even Point ou preço de empate calculado foi de R$370,74 para a RGE e R$340,49 para a COPEL.
 Qual a recomendação para uma contratação? (Características de contrato como volume, flexibilidade, modulação, sazonalização).
@@ -54,7 +54,7 @@ R: A recomendação é a contratação de 0,35MW médios na modalidade flex com 
 
 ## Objetivos do projeto
 ~~~
-<Após a análise dos dados pode-se concluir que há viabilidade da migração (Parte II) e também resultou na sugestão de melhorias contratuais nos valores de demanda contratada e em alguns casos do tratamento da potência reativa excedente (Parte I).>
+Após a análise dos dados pode-se concluir que há viabilidade da migração (Parte II). A análise também resultou na sugestão de melhorias contratuais nos valores de demanda contratada e em alguns casos do tratamento da potência reativa excedente (Parte I).
 ~~~
 
 # Recursos e Métodos
@@ -192,7 +192,13 @@ Ao somar a totalidade das UCs, verifica-se os valores de economias previstas par
 ~~~
 https://github.com/juliobento9131/IT304S_Trabalho_Parte_2/issues/7#issue-791474295
 ~~~
-Com isso posto, é possível verificar a viabilidade econômica de migração para todas as UC's, com maior economia no final do ciclo considerando os preços de mercado da Tabela 1.
+Com isso posto, é possível verificar a viabilidade econômica de migração para todas as UC's, com maior economia no final do ciclo considerando os preços de mercado da tabela abaixo.
+                                                             Ano   R$/MWh
+                                                             2022  233
+                                                             2023  197
+                                                             2024  183
+                                                             2025  170
+                                                             2026  160
 ~~~
 
 # Conclusões
