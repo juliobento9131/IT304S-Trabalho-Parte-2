@@ -160,7 +160,7 @@ https://github.com/juliobento9131/IT304S_Trabalho_Parte_2/issues/1#issue-7914432
 ~~~
 Para esta UC existe a necessidade de ajuste no contrato de demanda para o valor de 270 kW, dado que a mesma vem desempenhando valores muito acima de 197 kW, atual contrato. De posse dos valores de tarifa atuais vigentes, assim como os encargos e perdas, abaixo são mostradas as economias previstas para os anos de 2022 até 2026 para esta UC, considerando também as bandeiras tarifárias vigentes.
 ~~~
-https://github.com/juliobento9131/IT304S_Trabalho_Parte_2/issues/2#issue-791459933
+https://github.com/juliobento9131/IT304S_Trabalho_Avaliativo/issues/2#issue-791459933
 
 ### UC3
 ~~~
