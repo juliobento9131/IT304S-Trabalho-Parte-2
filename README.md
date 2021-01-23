@@ -18,7 +18,7 @@
 
 
 # Vídeo do Projeto
-`https://www.youtube.com/watch?v=V9-0qUt9TeM`
+https://www.youtube.com/watch?v=V9-0qUt9TeM
 
 # Introdução e Motivação
 ~~~
